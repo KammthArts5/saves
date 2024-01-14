@@ -1,2 +1,2 @@
 # saves
-Retroarch saves for multi platform
+Retroarch saves for multi platfor
